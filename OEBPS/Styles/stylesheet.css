@@ -1,0 +1,324 @@
+.calibre {
+    display: block;
+    font-size: 0.75em;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    color: #000;
+    display: block;
+    font-size: 2.22222em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 0 1em
+    }
+.calibre2 {
+    display: block;
+    font-size: 2.66667em;
+    line-height: 1.2;
+    margin: 0.5em
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    color: black;
+    line-height: 1.2
+    }
+.calibre5 {
+    display: block;
+    font-size: 0.75em;
+    height: 100%;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre6 {
+    display: table;
+    height: 100%;
+    overflow: hidden;
+    position: static;
+    width: 100%
+    }
+.calibre7 {
+    display: table-cell;
+    position: static;
+    text-align: center;
+    top: 50%;
+    vertical-align: middle
+    }
+.calibre8 {
+    display: block;
+    position: relative;
+    top: -50%;
+    margin: 0 auto
+    }
+.calibre9 {
+    height: auto;
+    width: auto;
+    padding: 0;
+    margin: 0
+    }
+.calibre10 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre11 {
+    display: block;
+    font-size: 1.33333em;
+    letter-spacing: 0;
+    line-height: 1.5em;
+    text-align: justify;
+    text-indent: 2em;
+    text-justify: inter-ideograph;
+    margin: 1em 0 0
+    }
+.calibre12 {
+    color: #000;
+    display: block;
+    font-size: 1.88889em;
+    font-weight: 800;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 0 1.3em
+    }
+.calibre13 {
+    color: black
+    }
+.calibre14 {
+    font-size: 1em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre15 {
+    display: block;
+    margin: 2em 1em 0
+    }
+.calibre16 {
+    display: block;
+    font-family: kaiti;
+    font-size: 1.33333em;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.4em;
+    text-align: justify;
+    text-indent: 2em;
+    text-justify: inter-ideograph;
+    margin: 0.5em 0 0
+    }
+.calibre17 {
+    display: block;
+    font-size: 1.33333em;
+    letter-spacing: 0;
+    line-height: 1.5em;
+    text-align: justify;
+    text-indent: 2em;
+    text-justify: inter-ideograph;
+    margin: 2em 0 0
+    }
+.calibre18 {
+    font-family: heiti;
+    font-size: 1.125em;
+    font-weight: 800
+    }
+.calibre19 {
+    display: block;
+    font-size: 1em;
+    letter-spacing: 0;
+    line-height: 1.5em;
+    text-align: justify;
+    text-indent: 2em;
+    text-justify: inter-ideograph;
+    margin: 0
+    }
+.calibre20 {
+    display: block;
+    font-size: 1.33333em;
+    letter-spacing: 0;
+    line-height: 1.5em;
+    text-align: justify;
+    text-indent: 2em;
+    text-justify: inter-ideograph;
+    margin: 1.5em 0 0
+    }
+.calibre21 {
+    font-family: heiti;
+    font-size: 1em;
+    font-weight: 800
+    }
+.center {
+    display: block;
+    font-family: kaiti;
+    font-size: 1.33333em;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.4em;
+    text-align: center;
+    text-indent: 0;
+    text-justify: inter-ideograph;
+    margin: 0.5em 0 0
+    }
+.chatu {
+    display: block;
+    font-family: songti;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5em;
+    text-align: center
+    }
+.chatu1 {
+    display: block;
+    font-family: songti;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
+    }
+.chubanshe {
+    bottom: 12%;
+    display: block;
+    font-family: fzlth;
+    font-size: 1em;
+    left: 0%;
+    margin-left: 0%;
+    margin-top: 2em;
+    position: absolute;
+    text-align: center;
+    width: 100%
+    }
+.fnote {
+    display: block;
+    font-size: 1em;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-top: 1em;
+    padding-top: 0.5em;
+    text-align: justify;
+    text-indent: 2em;
+    border-top: gray solid 1px
+    }
+.fnote1 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-top: 0.5em;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 2em;
+    border-top: currentColor none 0
+    }
+.grey {
+    background-color: #DCDCDC;
+    display: block;
+    font-size: 0.75em;
+    padding: 0;
+    margin: 0 5pt
+    }
+.italic {
+    font-style: italic
+    }
+.kaiti {
+    display: block;
+    font-family: kaiti;
+    font-size: 1.88889em;
+    line-height: 1.2;
+    text-indent: 2em
+    }
+.kaiti1 {
+    display: block;
+    font-family: kaiti
+    }
+.kaiti2 {
+    display: block;
+    font-family: kaiti;
+    font-size: 1.33333em;
+    letter-spacing: 0;
+    line-height: 1.5em;
+    text-align: right;
+    text-indent: 2em;
+    text-justify: inter-ideograph;
+    margin: 1em 0 0
+    }
+.right {
+    display: block;
+    font-family: kaiti;
+    font-size: 1.33333em;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.4em;
+    text-align: right;
+    text-indent: 2em;
+    text-justify: inter-ideograph;
+    margin: 0.5em 0 0
+    }
+.sbiao {
+    font-size: 0.75em;
+    vertical-align: super;
+    margin: 0
+    }
+.sgc-toc-level {
+    display: block;
+    font-family: heiti;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 1em 0
+    }
+.sgc-toc-level1 {
+    display: block;
+    font-family: fzlth;
+    font-size: 0.88889em;
+    font-weight: normal;
+    margin: 0.5em 1em
+    }
+.shuming {
+    display: block;
+    font-family: songti;
+    padding-top: 30%;
+    text-align: center;
+    text-indent: 0
+    }
+.sigil_not_in_toc {
+    display: block;
+    font-family: heiti;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 2em;
+    margin: 0
+    }
+.sigil_not_in_toc1 {
+    color: #000;
+    display: block;
+    font-size: 1.88889em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 2em 0 1.3em
+    }
+.tushuo {
+    display: block;
+    font-family: kaiti;
+    font-size: 1em;
+    letter-spacing: 0;
+    line-height: 1.2em;
+    text-align: left;
+    text-indent: 0;
+    text-justify: inter-ideograph;
+    margin: 0.5em 0 0
+    }
+.width {
+    height: auto;
+    width: 40%;
+    padding: 0;
+    margin: 0
+    }
+.width1 {
+    height: auto;
+    width: 50%;
+    padding: 0;
+    margin: 0
+    }
